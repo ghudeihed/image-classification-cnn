@@ -1,0 +1,10 @@
+numpy
+matplotlib
+seaborn
+torch
+torchvision
+torchsummary
+scikit-learn
+optuna
+flask
+streamlit
